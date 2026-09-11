@@ -36,15 +36,9 @@ SYSTEM READY...
 
 <div align="center">
 
-<a href="https://github.com/Hariom-Patel123" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-00fff7?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" />
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0a0a" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-8a2be2?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0a0a" />
-</a>
+<a href="https://github.com/Hariom-Patel123" target="_blank"><img src="https://img.shields.io/badge/GITHUB-00fff7?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0a0a" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-8a2be2?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0a0a" /></a>
 
 </div>
 
